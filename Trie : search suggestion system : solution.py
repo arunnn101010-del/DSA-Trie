@@ -1,5 +1,5 @@
 # Promblem - search suggestion system 
-# approach - dfs + tree 
+# approach - dfs + trie
 # Leetcode and diffculty level - 1268 & easy 
 class Solution {
 public:
